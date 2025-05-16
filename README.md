@@ -10,7 +10,7 @@ These interactive Power BI dashboards provide invaluable insights into customer 
 ## 🏆 Key Dashboards
 
 ### 1. **Customer Demographics**
-![Customer Dashboard Preview](images/customer_demo.png) *(Add screenshot later)*  
+![Customer Dashboard Preview] *(Add screenshot later)*  
 **KPIs Tracked**:
 - Gender distribution (M/F)
 - Age categories (Young/Old)
